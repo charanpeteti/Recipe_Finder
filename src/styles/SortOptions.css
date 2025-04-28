@@ -1,0 +1,9 @@
+.sort-options {
+    margin-bottom: 20px;
+  }
+  
+  .sort-options select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
